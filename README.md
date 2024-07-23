@@ -1,2 +1,2 @@
-# Task1-Data-Science-Internship
+# Task1,2,3-Data-Science-Internship
 This is my Internship Task1
